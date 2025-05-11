@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Robotics and Rehabilitation Lab (ROAR Lab), Columbia University, NY
+  - name: Robotics and Rehabilitation Laboratory (ROAR Lab), Columbia University, NY
     url: https://roar.me.columbia.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'co2393@columbia.edu'
+    url: 'mailto:co2393@columbia.edu'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=yRCm1skAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0002-5389-8577
+    url: https://orcid.org/0000-0002-5389-8577
 
 interests:
   - Robotics

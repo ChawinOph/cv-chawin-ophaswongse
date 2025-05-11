@@ -26,10 +26,10 @@ sections:
           # Add your image background to `assets/media/`.
           filename: portfolio_header_wraps_2.png
           filters:
-            brightness: 0.5
+            brightness: 0.25
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
       title: '📚 My Research'
