@@ -48,8 +48,10 @@ profiles:
 
 interests:
   - Robotics
+  - Human Biomechanics
   - Sensorimotor Rehabilitation
-  - Brain Computer Interface
+  - Statistical Machine Learning
+  - Brain Computer Interface (BCI)
 
 education:
   - area: Ph.D. Mechanical Engineering
@@ -185,4 +187,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chawin is a postdoctoral fellow at Columbia University’s Robotics and Rehabilitation (RoAR) Lab, specializing in human-robot interaction, assistive robotics, and sensorimotor rehabilitation. His research focuses on designing and validating robotic exoskeletons that support seated postural control for individuals with neurological impairments. With multiple peer-reviewed publications and projects funded by the New York State Spinal Cord Injury Research Board, Chawin’s work bridges robotics, biomechanics, and rehabilitation engineering. He is passionate about advancing technologies that improve human movement and quality of life.
