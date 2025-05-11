@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: portfolio_header_wraps_2.png
@@ -29,7 +29,7 @@ sections:
             brightness: 0.25
           size: cover
           position: center
-          parallax: true
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
