@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Chawin_Ophaswongse_CV_2025-05-11.pdf
     design:
       css_class: dark
       background:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: portfolio_header_wraps_2.png
           filters:
-            brightness: 0.33
+            brightness: 0.25
           size: cover
           position: bottom
           parallax: false
