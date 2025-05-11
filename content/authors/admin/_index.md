@@ -11,7 +11,7 @@ last_name: Ophaswongse
 
 # Status emoji
 status:
-  icon: 🤖🦾🦿
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Robotics and Rehabilitation Lab (ROAR Lab), Columbia University
+  - name: Robotics and Rehabilitation Lab (ROAR Lab), Columbia University, NY
     url: https://roar.me.columbia.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'co2393@columbia.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ChawinOph
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/chawin-ophaswongse/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=yRCm1skAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-5389-8577
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Sensorimotor Rehabilitation
+  - Brain Computer Interface
 
 education:
   - area: PhD Artificial Intelligence
@@ -57,7 +57,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Sunil Agrawal](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
