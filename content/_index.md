@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: portfolio_header_wraps.png
+          filename: portfolio_header_wraps_2.png
           filters:
             brightness: 0.5
           size: cover
