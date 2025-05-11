@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "My Porfolio"
 
 # Site footer
 footer:
@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'May 11, 2025'
+  time_format: '12:47 PM'
 
 # Site features
 features:
