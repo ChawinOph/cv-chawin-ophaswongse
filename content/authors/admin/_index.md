@@ -55,18 +55,21 @@ interests:
 
 education:
   - area: Ph.D. Mechanical Engineering
-    institution: Columbia University
+    institution: Columbia University, NY, USA
     date_start: 2018-01-01
     date_end: 2021-10-20
     summary: |
       GPA: 4.0/4.0
-      Dissertation: "Design of Wheelchair Robot for Active Postural Support (WRAPS) for Users with Trunk Impairment". Supervised by [Prof. Sunil Agrawal](https://www.me.columbia.edu/faculty/sunil-agrawal). 
+
+      Dissertation: "Design of Wheelchair Robot for Active Postural Support (WRAPS) for Users with Trunk Impairment". 
+      Supervised by [Prof. Sunil Agrawal](https://www.me.columbia.edu/faculty/sunil-agrawal). 
+      
       Invented robotic torso exoskeletons to assist seated movements for individuals with cervical or thoracic spinal cord injury (SCI).
     button:
       text: 'Read Thesis'
       url: 'https://core.ac.uk/download/pdf/482689654.pdf'
   - area: M.S. Mechanical Engineering
-    institution: Columbia University
+    institution: Columbia University, NY, USA
     date_start: 2016-08-01
     date_end: 2017-12-31
     summary: |
@@ -77,7 +80,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.E. Mechanical Engineering
-    institution: Chulalongkorn University
+    institution: Chulalongkorn University, Bangkok, Thailand
     date_start: 2011-05-01
     date_end: 2015-07-31
     summary: |
