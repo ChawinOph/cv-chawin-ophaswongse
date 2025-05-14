@@ -82,7 +82,7 @@ url_video: ''
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
-  focal_point: 'top'
+  focal_point: 'center'
   preview_only: false
 
 # Associated Projects (optional).
