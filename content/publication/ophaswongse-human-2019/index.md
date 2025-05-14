@@ -32,11 +32,7 @@ publication_short: ''
 
 doi: 10.1017/S0263574719000948
 
-abstract: People with severe neuromuscular trunk impairment cannot maintain or control
-  upright posture of the upper body in sitting while reaching. Passive orthoses are
-  clinically available to provide support and promote the use of upper extremities
-  in this population. However, these orthoses only position the torso passively without
-  any degree of trunk movement.
+abstract: People with severe neuromuscular trunk impairment cannot maintain or control upright posture of the upper body in sitting while reaching. Passive orthoses are clinically available to provide support and promote the use of upper extremities in this population. However, these orthoses only position the torso passively without any degree of trunk movement. We introduce for the first time a novel active-assistive torso brace called Wheelchair Robot for Active Postural Support (WRAPS). It consists of two rings over the hips and chest connected by a 2RPS-2UPS parallel robotic device. WRAPS can modulate the displacement of the upper ring and/or the forces applied on the torso through the ring in four degrees-of-freedom (DOF), including rotations and translation in the sagittal and frontal planes.In the present study, we evaluate the design of WRAPS and its functions. Moreover, we discuss the potential effectiveness of WRAPS as a therapeutic robotic tool in people with severe trunk control deficits. The performance of WRAPS was evaluated in seated healthy subjects. Kinematics and surface electromyography (sEMG) were collected when the participants performed selective trunk movements. First, the torso range of motion (tROM) was calculated with WRAPS in transparent mode—zero-force control mode—which was compared with free-guided tROM (no WRAPS) with motion capture system. Second, a position control mode was configured to mobilize the torso along the trajectories obtained with the transparent mode. Our results show that the design of WRAPS suited well the subject’s anthropometrics while supporting the weight of the torso. Importantly, WRAPS can be programmed to replicate the subject’s tROM, without the full activation of torso muscles. This can be critical in individuals with no trunk control. Altogether, these preliminary results indicate the potential applicability of WRAPS to promote active-assistive trunk mobility in people who cannot sit independently because of trunk dysfunction.
 
 # Summary. An optional shortened abstract.
 summary: ''
