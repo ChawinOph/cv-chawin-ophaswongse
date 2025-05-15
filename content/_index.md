@@ -41,7 +41,7 @@ sections:
         
         By integrating adaptive control algorithms, physiological sensing, and XR-based training 🎮, I create assistive systems that advance the future of robot-assisted rehabilitation.
 
-Please reach out to collaborate 🤝
+        Please reach out to collaborate 🤝
     design:
       columns: '1'
   - block: collection
