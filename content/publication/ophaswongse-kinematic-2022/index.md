@@ -88,4 +88,4 @@ links:
   url: https://ieeexplore.ieee.org/document/9925527/
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+2022 9th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)

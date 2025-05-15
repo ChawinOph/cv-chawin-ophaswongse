@@ -96,4 +96,4 @@ links:
   url: https://ieeexplore.ieee.org/document/10719943/
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+ 2024 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)

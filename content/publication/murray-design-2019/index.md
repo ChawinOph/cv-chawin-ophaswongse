@@ -84,4 +84,4 @@ links:
     https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4042544/472331/Design-of-a-Wheelchair-Robot-for-Active-Postural
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+Journal of Mechanisms and Robotics. Apr 2019, 11(2): 020911

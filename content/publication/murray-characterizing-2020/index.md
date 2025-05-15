@@ -94,4 +94,4 @@ links:
   url: https://ieeexplore.ieee.org/document/8972469/
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+IEEE Robotics and Automation Letters ( Volume: 5, Issue: 2, April 2020)

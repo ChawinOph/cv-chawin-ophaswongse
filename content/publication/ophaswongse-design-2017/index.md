@@ -84,4 +84,4 @@ links:
     https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2017/58172/Cleveland,%20Ohio,%20USA/259532
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+41st Mechanisms and Robotics Conference, 2017

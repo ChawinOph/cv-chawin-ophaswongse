@@ -83,4 +83,4 @@ links:
     https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4038976/369778/Wrench-Capability-of-a-Stewart-Platform-With
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+Journal of Mechanisms and Robotics. Apr 2018, 10(2): 021002

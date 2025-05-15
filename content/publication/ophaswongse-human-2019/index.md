@@ -76,4 +76,4 @@ links:
     https://www.cambridge.org/core/product/identifier/S0263574719000948/type/journal_article
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+Robotica , Volume 37 , Special Issue 12: Wearable Robotics: Dynamics, Control and Applications , December 2019 , pp. 2132 - 2146

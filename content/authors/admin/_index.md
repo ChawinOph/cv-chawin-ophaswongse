@@ -48,9 +48,10 @@ profiles:
 
 interests:
   - Robotics
-  - Human Biomechanics
+  - Biomechanics 
+  - Human-robot Interaction
   - Sensorimotor Rehabilitation
-  - Statistical Machine Learning
+  - Statistics and Machine Learning
   - Brain Computer Interface (BCI)
 
 education:
