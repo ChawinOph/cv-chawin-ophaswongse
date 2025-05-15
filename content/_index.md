@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 🚀 My Work'
+      title: '📚 My Work 🚀 '
       subtitle: ''
       text: |-
         I innovate at the intersection of robotics 🤖, biomechanics 🦿, and neuroscience 🧠 to develop intelligent exoskeletons that restore and enhance human mobility. 
