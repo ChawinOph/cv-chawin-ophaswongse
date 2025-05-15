@@ -32,14 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 🚀 My Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I innovate at the intersection of robotics 🤖, biomechanics 🦿, and neuroscience 🧠 to develop intelligent exoskeletons that restore and enhance human mobility. 
         
-        Please reach out to collaborate 😃
+        My mission is to translate cutting-edge research into accessible, clinically impactful technologies that improve quality of life for individuals with neurological impairments.
+        
+        By integrating adaptive control algorithms, physiological sensing, and XR-based training 🎮, I create assistive systems that advance the future of robot-assisted rehabilitation.
+
+Please reach out to collaborate 🤝
     design:
       columns: '1'
   - block: collection
