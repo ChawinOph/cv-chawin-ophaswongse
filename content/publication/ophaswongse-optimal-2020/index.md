@@ -90,3 +90,4 @@ links:
 ---
 
 IEEE Robotics and Automation Letters ( Volume: 5, Issue: 2, April 2020)
+Presented at IEEE International Conference on Robotics and Automation (ICRA), 2020

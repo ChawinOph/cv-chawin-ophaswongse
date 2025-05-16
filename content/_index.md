@@ -39,7 +39,7 @@ sections:
         
         My mission is to translate cutting-edge research into accessible, clinically impactful technologies that improve quality of life for individuals with neurological impairments.
         
-        By integrating adaptive control algorithms, physiological sensing, and XR-based training 🎮, I create assistive systems that advance the future of robot-assisted rehabilitation.
+        By integrating adaptive control algorithms, physiological sensing, and XR-based training 🎮, I aim to create assistive systems that advance the future of robot-assisted rehabilitation.
 
         Please reach out to collaborate 🤝
     design:
