@@ -10,7 +10,7 @@ tags:
   - EEG
   - Neuroengineering
 image:
-  caption: 'Custom Tkinter GUI with NeuroPype interface (by Chawin O.)'
+  caption: 'Image credit: [**Columbia University Robotics and Rehabilitation (RoAR) Lab**](https://roarlab.engineering.columbia.edu/)'
 ---
 
 What if you could control a robot just by thinking?
@@ -54,9 +54,11 @@ In our **Motor Imagery BCI project**, we used EEG recordings to let users contro
 
 ## Classification Results
 
+```markdown
 {{% callout note %}}
 Even with simple linear SVMs, our system achieved above-chance classification across all subjects.
 {{% /callout %}}
+```
 
 - **Macro (HaLT vs. 5F)**: up to 98% accuracy
 - **Intra-HaLT**: up to 98% (FTA features most effective)
@@ -88,4 +90,34 @@ We demonstrated a low-latency, high-accuracy BCI framework for robotic limb cont
 
 ---
 
-<!-- 🙌 Like what you see? Consider connecting with us on [GitHub](https://github.com/ChawinOph) or [Google Scholar](https://scholar.google.com/citations?user=yRCm1skAAAAJ). -->
+🙌 Like what you see? Consider connecting with us on [GitHub](https://github.com/ChawinOph) or [Google Scholar](https://scholar.google.com/citations?user=yRCm1skAAAAJ).
+
+## Diagrams
+
+Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+
+### BCI Control Flow
+
+```mermaid
+graph TD
+A[EEG Data Input] --> B[Preprocessing (Smoothing + Referencing)]
+B --> C[Feature Extraction]
+C --> D{Classifier}
+D -->|Macro| E[HaLT vs 5F]
+D -->|Micro| F[HaLT: 6 classes]
+D -->|Micro| G[5F: Finger classes]
+E & F & G --> H[NeuroPype Output]
+H --> I[Robot GUI Control]
+```
+
+### State Transition for Robot Control Modes
+
+```mermaid
+stateDiagram
+[*] --> Idle
+Idle --> ModeA : Tongue MI
+ModeA --> Idle : Passive MI
+ModeA --> ModeB : Tongue MI
+ModeB --> Idle : Passive MI
+ModeB --> ModeA : Tongue MI
+```
