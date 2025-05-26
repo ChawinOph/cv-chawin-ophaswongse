@@ -70,7 +70,7 @@ The robot responds to:
 
 Mode switching (e.g., between X-Y and Z/rotation) is triggered by **tongue motor imagery**.
 
-![CUSTOM BCI GUI](content/project/motor_imagery_control_of_robot_arm/gui_combined.png "GUI in different modes")
+![CUSTOM BCI GUI](gui_combined.png "GUI in different modes")
 
 ## System Visualization
 
@@ -119,9 +119,9 @@ graph TD
 ```mermaid
 stateDiagram
 [*] --> Idle
-Idle --> Mode A : Tongue MI
-Mode A --> Idle : Passive MI
-Mode A --> Mode B : Tongue MI
-Mode B --> Idle : Passive MI
-Mode B --> Mode A : Tongue MI
+Idle --> ModeA : TongueMI
+ModeA --> Idle : PassiveMI
+ModeA --> ModeB : TongueMI
+ModeB --> Idle : PassiveMI
+ModeB --> ModeA : TongueMI
 ```
