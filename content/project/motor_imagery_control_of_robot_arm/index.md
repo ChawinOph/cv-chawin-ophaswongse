@@ -70,6 +70,8 @@ The robot responds to:
 
 Mode switching (e.g., between X-Y and Z/rotation) is triggered by **tongue motor imagery**.
 
+![screen reader text](gui_combined.jpg "GUI in different modes")
+
 ## System Visualization
 
 ```markmap {height="200px"}
@@ -90,11 +92,13 @@ We demonstrated a low-latency, high-accuracy BCI framework for robotic limb cont
 
 <!-- 🙌 Like what you see? Consider connecting with us on [GitHub](https://github.com/ChawinOph) or [Google Scholar](https://scholar.google.com/citations?user=yRCm1skAAAAJ). -->
 
-## Diagrams
+<!-- ## Diagrams
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+Hugo Blox supports the _Mermaid_ Markdown extension for diagrams. -->
 
 ### BCI Control Flow
+
+<!-- https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=toggle#pako:eNptj8tugzAQRX9lxLZimS68iNQABqQ-ojRdGRauMzykxIMGU6VK8u8Fu4u2qle-OmeuZi6RoQNGIorjuLKGbNO3orLgn-vwhAIYD9O5st5oWQ8d7NOgPKgsyyHVTkNph8nVEMdr2Kgt48BkcBx72wp4PRG5bv7CHeywQUZr5lSHko0fSpRE7SZGyM6OtXE92W8h8UJ6SY56Lmx65FsA6QKuT9owXSFThX7cw8cIK1n_4r3n0nMB92CWHhz_k3K1kgLkvBzyHy_zWxTqGSem7eeA8DK55eaAZcAh5D9D4UOpdvRODvK3EhKyjuk4T0a3L5l-ddM -->
 
 ```mermaid
 graph TD
