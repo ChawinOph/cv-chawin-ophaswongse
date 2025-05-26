@@ -70,7 +70,7 @@ The robot responds to:
 
 Mode switching (e.g., between X-Y and Z/rotation) is triggered by **tongue motor imagery**.
 
-![CUSTOM BCI GUI](content/project/motor_imagery_control_of_robot_arm/gui_combined.jpg "GUI in different modes")
+![CUSTOM BCI GUI](content/project/motor_imagery_control_of_robot_arm/gui_combined.png "GUI in different modes")
 
 ## System Visualization
 
