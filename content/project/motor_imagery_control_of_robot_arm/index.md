@@ -107,7 +107,7 @@ graph TD
     E --> H[NeuroPype Output]
     F --> H
     G --> H
-    H --> I[Robot GUI Control]
+    H --> I[Robot GUI Control Output]
 ```
 
 ### State Transition for Robot Control Modes
