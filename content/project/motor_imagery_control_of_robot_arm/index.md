@@ -54,11 +54,11 @@ In our **Motor Imagery BCI project**, we used EEG recordings to let users contro
 
 ## Classification Results
 
-```markdown
+<!-- ```markdown -->
 {{% callout note %}}
 Even with simple linear SVMs, our system achieved above-chance classification across all subjects.
 {{% /callout %}}
-```
+<!-- ``` -->
 
 - **Macro (HaLT vs. 5F)**: up to 98% accuracy
 - **Intra-HaLT**: up to 98% (FTA features most effective)
