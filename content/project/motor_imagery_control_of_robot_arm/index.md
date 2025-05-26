@@ -98,16 +98,16 @@ Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
 
 ```mermaid
 graph TD
-A[EEG Data Input] --> B[Preprocessing (Smoothing + Referencing)]
-B --> C[Feature Extraction]
-C --> D{Classifier}
-D -->|Macro| E[HaLT vs 5F]
-D -->|Micro| F[HaLT: 6 classes]
-D -->|Micro| G[5F: Finger classes]
-E --> H[NeuroPype Output]
-F --> H
-G --> H
-H --> I[Robot GUI Control]
+    A[EEG Data Input] --> B[Preprocessing: Smoothing + Referencing]
+    B --> C[Feature Extraction]
+    C --> D{Classifier}
+    D -->|Macro| E[HaLT vs 5F]
+    D -->|Micro| F[HaLT: 6 classes]
+    D -->|Micro| G[5F: Finger classes]
+    E --> H[NeuroPype Output]
+    F --> H
+    G --> H
+    H --> I[Robot GUI Control]
 ```
 
 ### State Transition for Robot Control Modes
