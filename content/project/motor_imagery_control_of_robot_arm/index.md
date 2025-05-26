@@ -71,6 +71,7 @@ The robot responds to:
 Mode switching (e.g., between X-Y and Z/rotation) is triggered by **tongue motor imagery**.
 
 ![CUSTOM BCI GUI](gui_combined.png "GUI in different modes")
+[Video Demo of Macro Mode with EEG Streaming](https://youtu.be/ZoCS2fBwAOQ)
 
 ## System Visualization
 
