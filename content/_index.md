@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Chawin_Ophaswongse_CV_2025-11-22.pdf
+        url: uploads/Chawin_Ophaswongse_CV_2025-11-23.pdf
     design:
       css_class: dark
       background:
